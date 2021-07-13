@@ -13,6 +13,7 @@ class Tooltip extends HTMLElement {
                 color: white;
                 position: absolute;
                 z-index: 10; 
+                
             }
         </style>
         <slot>Some defolt</slot>
